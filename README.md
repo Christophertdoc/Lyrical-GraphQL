@@ -5,3 +5,6 @@ This particular project is included in section 2 of the course. It focuses mostl
 ## To run app:
 1. Use command `npm run dev`. Go to `localhost:4000` in the browser.
 2. To view graphiQL, go to `http://localhost:4000/graphql` in the browser. 
+
+## Database
+1. At https://www.mongodb.com/
